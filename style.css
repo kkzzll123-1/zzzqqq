@@ -1,10 +1,4 @@
-<! doctype html>
-<html>
-<head>
-<title> hi </title>
-<meta charset="UTF-8 ">
 <style>
-
 #qqq{
   padding-left: 20px;
 }
@@ -27,9 +21,7 @@ ol{     border-right: 2px solid green;
          width: 100px;
           padding: 20px;
            margin: 0;
-            padding-left: 34px;
-          }
-
+            padding-left: 34px;}
 #zzz ol{
   padding-left: 34px;}
   @media(max-width:740px){
@@ -38,24 +30,6 @@ ol{     border-right: 2px solid green;
   }
   ol{     border-right:none;
   }
-
-
+                                              }
 
  </style
-</head>
-<body>
-<h1> <a href="index.html">홈</a></h1>
-<div id="grid">
-<ol>
-  <li><a href="1.html">원딜</a></li>
-  <li><a href="2.html">미드</a></li>
-  <li><a href="3.html">탑</a></li>
-</ol>
-<div id="qqq">
- <h2> 리그오브레전드<롤> </h2>
- <p> <strong>롤</strong>을 알아봅시다</p>
-</div>
-</div>
-</p>
-</body>
-</html>
